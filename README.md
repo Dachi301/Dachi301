@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dachi Kirikashvili</h1>
 <h3 align="center">👨‍💻 Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Alliance Group Web Project**
+- 🔭 I’m currently working on Alliance Group Web Project: **https://ally.ge/**
+
+- 🏠 The real estate project I was working on: **https://gethome.ge/**
 
 - 💬 Ask me about **JavaScript,React,Typescript,Next,PHP,Laravel**
 
