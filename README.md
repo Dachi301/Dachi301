@@ -5,7 +5,7 @@
 <h3 align="left">🚀 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,electron,nextjs,nodejs,nestjs,express,laravel,prisma,postgres,mongodb,firebase,supabase,sqlite,docker,redis,vite,webpack,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,electron,angular,nextjs,nodejs,nestjs,express,laravel,prisma,postgres,mongodb,firebase,supabase,sqlite,docker,redis,vite,webpack,git" />
 </p>
 
 ---
