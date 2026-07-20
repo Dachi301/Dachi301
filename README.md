@@ -16,7 +16,7 @@
 - Design and develop REST APIs  
 - Work with SQL and NoSQL databases  
 - Build scalable backend systems with Node.js / NestJS  
-- Create modern UI with React / Next.js  
+- Create modern UI with Angular / React / Next.js  
 - Integrate third-party APIs and services  
 
 ---
